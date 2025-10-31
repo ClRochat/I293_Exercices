@@ -1,0 +1,11 @@
+/* CRT fichier de base */
+*{
+    margin:5;
+    padding: 5;
+}
+body
+{
+    background-color: #9D9CFF;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818;
+}
